@@ -1,0 +1,14 @@
+nav{
+    background-color: black;
+    color: azure;
+    
+    
+}
+a {
+    color: azure;
+}
+
+.btn-primary{
+    background-color: black;
+    border-color: azure;
+}
